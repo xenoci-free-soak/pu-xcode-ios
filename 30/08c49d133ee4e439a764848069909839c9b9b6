@@ -1,0 +1,22 @@
+.github/workflows/ci.yml
+  h_e90f0321dd544b 1-13
+Package.swift
+  h_e90f0321dd544b 1-6
+README.md
+  h_e90f0321dd544b 1-3
+Sources/XcodeIos/XcodeIos.swift
+  h_e90f0321dd544b 1-3
+Tests/XcodeIosTests/XcodeIosTests.swift
+  h_e90f0321dd544b 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3008c49d133ee4e439a764848069909839c9b9b6",
+  "prompts": {},
+  "humans": {
+    "h_e90f0321dd544b": {
+      "author": "001005HS <99410048+001005HS@users.noreply.github.com>"
+    }
+  }
+}
